@@ -1,0 +1,97 @@
+.border{
+    height: 65px;
+    width: 500px;
+    border: 5px solid black;
+    margin: center;
+    border-radius: 50px;
+    background-image: linear-gradient(to bottom right,white,#585858);
+   
+}
+.position{
+    background-position: left;
+    text-align: left;
+    overflow: auto;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+
+    
+body{
+    background-image: url(../img/tumblr_ocmlpt9P0p1vewhn8o1_500.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+} 
+
+
+
+
+
+
+img{
+    height: 500px;
+    width: 500px;
+    background-position: left;
+    
+    
+}
+
+
+
+
+#logo{
+    
+    vertical-align: top, center;
+    border-radius: 50%;
+    margin: auto;
+    height: 110px;
+}
+
+
+#imagem{
+    height: 50px;
+    margin: auto;
+    border-left: 50px;
+    vertical-align: middle;
+        
+}
+
+.menu{
+    list-style: none;
+    border: 1px solid black;
+    background-image: linear-gradient(#81DAF5,#A9E2F3,#EFF8FB);
+    float: left;
+}
+
+
+.menu li{
+    position: relative;
+    padding: 2px;
+    margin: 2PX;
+    float: left;
+    border-right: 2px solid transparent;
+}
+
+
+.menu li a{
+    color:black;
+    text-shadow: 1px 1px gray;
+    padding: 5px 18px;
+    display: block;
+    font-family: 'Bebas Neue',cursive;
+    font-size: 17.86px;
+}
+
+#carnical{
+	position: absolute; 
+	right: 0px;  
+	bottom: 0px; 
+    height: 200px;
+    width: 200px;
+	}
+
+audio{
+    height: 630px;
+    width: 250px;
+    
+}
